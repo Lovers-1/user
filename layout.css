@@ -1,0 +1,22 @@
+.box-1{
+    font-size: 30px;
+    width: 60%;
+    display: flex;
+    float: left;
+
+    margin: 50px auto;
+    background-color: coral;
+}
+.inner-box{
+margin: 4px;
+border: cyan solid;
+border-color: cornsilk;
+padding: 7px;
+}
+
+.line{
+    border: teal solid;
+    height: 10px;
+    width: 80%;
+
+}
